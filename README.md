@@ -1,4 +1,4 @@
-<h1 align="center">
+<!-- <h1 align="center">
     SCHOOL MANAGEMENT SYSTEM
 </h1>
 
@@ -47,7 +47,7 @@ git clone https://github.com/Yogndrr/MERN-School-Management-System.git
 ```
 Open 2 terminals in separate windows/tabs.
 
-Terminal 1: Setting Up Backend 
+Terminal 1: Setting Up Backend
 ```sh
 cd backend
 npm install
@@ -60,7 +60,7 @@ cd frontend
 npm install
 npm start
 ```
-Now, navigate to `localhost:3000` in your browser. 
+Now, navigate to `localhost:3000` in your browser.
 The Backend API will be running at `localhost:5000`.
 
 <br>
@@ -68,4 +68,4 @@ The Backend API will be running at `localhost:5000`.
 # Deployment
 * Render - server side
 * Netlify - client side
-
+ -->
